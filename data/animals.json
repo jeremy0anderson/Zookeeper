@@ -108,6 +108,18 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "Test",
+      "species": "S",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving"
+      ],
+      "id": "11"
     }
   ]
 }
